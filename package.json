@@ -1,0 +1,14 @@
+{
+  "name": "assign-flash",
+  "version": "1.0.0",
+  "description": "backend for a basic flashcard application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melinda Hasselbring",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^3.1.1"
+  }
+}
